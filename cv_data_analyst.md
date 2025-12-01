@@ -1,5 +1,5 @@
 **Mathilde Van Brabant**
-+32 471464954 | mathilde.van.brabant@proton.me | Avenue Coghen, 3, 1180, Uccle, Belgium
++32 471464954 | mathilde.van.brabant@proton.me |
 
 ---
 
