@@ -5,13 +5,17 @@
 [![Focus](https://img.shields.io/badge/Focus-Data%20Engineering%20%26%20Analysis-blue)]()
 [![Methodology](https://img.shields.io/badge/Methodology-Agile%20%2F%20Scrum-orange)]()
 
-## 📖 About The Project (Me)
+## 📖 About Me
 
 I am a **complex systems analyst** by nature, transitioning from political advocacy to **Data Engineering**.
 
 My background in political analysis (City of Brussels, CIEP-MOC) taught me how to translate on-the-ground realities into clear frameworks. Now, I am pivoting to translate those frameworks into **robust code architectures**.
 
 > **Mission:** To acquire the quantitative mastery necessary to "humanize tech" and guarantee data quality for societal analysis.
+
+## ✅ Curriculum Vitae
+
+CV available under **cv_data_analyst.md**
 
 ## 🛠️ Tech Stack & Foundations
 
