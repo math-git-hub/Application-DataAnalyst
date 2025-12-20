@@ -50,6 +50,8 @@ My previous experience leading demanding projects and facilitating working group
 
 ## 💻 How to Run My Motivation
 
+I have tried to teach myself data analysis by analyzing a file of women managers globally available in another repo!
+
 To see my enthusiasm in code form, clone this repo and run the python script:
 
 ```python
