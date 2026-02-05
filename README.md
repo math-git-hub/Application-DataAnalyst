@@ -1,4 +1,4 @@
-# BeCode-Application
+# Application for Data/Business Analyst
 # 👩‍💻 Mathilde: The Systems Translator
 
 [![Status](https://img.shields.io/badge/Status-Work--Ready-success)]()
@@ -47,12 +47,3 @@ My previous experience leading demanding projects and facilitating working group
 * **Communication:** Translating "Black Box" algorithms for non-technical audiences during a citizenship course at Bruxelles Formation (perfect for Data Storytelling).
 
 * **Resilience:** Managing a database, data cleaning and preparation with Excel at Women Political Leaders (perfect for Data Cleaning).
-
-## 💻 How to Run My Motivation
-
-I have tried to teach myself data analysis by analyzing a file of women managers globally available in another repo!
-
-To see my enthusiasm in code form, clone this repo and run the python script:
-
-```python
-python motivation.py
